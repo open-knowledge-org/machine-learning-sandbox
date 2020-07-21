@@ -1,3 +1,4 @@
+# https://colab.research.google.com/github/lmoroney/mlday-tokyo/blob/master/Lab2-Computer-Vision.ipynb#scrollTo=BLMdl9aP8nQ0
 import tensorflow as tf
 print(tf.__version__)
 
