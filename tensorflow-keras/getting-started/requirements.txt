@@ -37,7 +37,7 @@ Markdown==3.2.2
 MarkupSafe==1.1.1
 nftables==0.1
 ntlm-auth==1.1.0
-numpy==1.19.0
+numpy==1.22.0
 oauthlib==3.1.0
 opt-einsum==3.3.0
 paramiko==2.7.1
